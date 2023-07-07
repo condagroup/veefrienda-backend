@@ -1,0 +1,18 @@
+2023/07/01-04:27:07.836 6b38 Reusing MANIFEST C:\Users\HOME\AppData\Local\Google\Chrome\User Data\Profile 3\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2023/07/01-04:27:07.837 6b38 Recovering log #2362
+2023/07/01-04:27:07.851 6b38 Reusing old log C:\Users\HOME\AppData\Local\Google\Chrome\User Data\Profile 3\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn/002362.log 
+2023/07/01-04:27:22.787 404c Level-0 table #2366: started
+2023/07/01-04:27:22.849 404c Level-0 table #2366: 2522577 bytes OK
+2023/07/01-04:27:22.854 404c Delete type=0 #2362
+2023/07/01-05:05:32.882 404c Level-0 table #2368: started
+2023/07/01-05:05:32.940 404c Level-0 table #2368: 2522653 bytes OK
+2023/07/01-05:05:32.943 404c Delete type=0 #2365
+2023/07/01-05:05:32.945 404c Compacting 4@0 + 1@1 files
+2023/07/01-05:05:33.043 404c Generated table #2369@0: 2 keys, 630774 bytes
+2023/07/01-05:05:33.043 404c Compacted 4@0 + 1@1 files => 630774 bytes
+2023/07/01-05:05:33.044 404c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/07/01-05:05:33.045 404c Delete type=2 #2357
+2023/07/01-05:05:33.045 404c Delete type=2 #2360
+2023/07/01-05:05:33.045 404c Delete type=2 #2363
+2023/07/01-05:05:33.045 404c Delete type=2 #2366
+2023/07/01-05:05:33.045 404c Delete type=2 #2368

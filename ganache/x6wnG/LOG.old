@@ -1,0 +1,21 @@
+2023/06/30-20:11:30.211 4934 Reusing MANIFEST C:\Users\HOME\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2023/06/30-20:11:30.213 4934 Recovering log #971
+2023/06/30-20:11:30.350 4934 Reusing old log C:\Users\HOME\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn/000971.log 
+2023/06/30-20:12:35.505 4934 Level-0 table #975: started
+2023/06/30-20:12:35.565 4934 Level-0 table #975: 2516244 bytes OK
+2023/06/30-20:12:35.568 4934 Delete type=0 #971
+2023/06/30-22:24:57.152 4934 Level-0 table #977: started
+2023/06/30-22:24:57.223 4934 Level-0 table #977: 2516166 bytes OK
+2023/06/30-22:24:57.228 4934 Delete type=0 #974
+2023/06/30-22:24:57.230 4934 Compacting 4@0 + 1@1 files
+2023/06/30-22:24:57.328 4934 Generated table #978@0: 2 keys, 629119 bytes
+2023/06/30-22:24:57.328 4934 Compacted 4@0 + 1@1 files => 629119 bytes
+2023/06/30-22:24:57.329 4934 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/30-22:24:57.331 4934 Delete type=2 #967
+2023/06/30-22:24:57.331 4934 Delete type=2 #969
+2023/06/30-22:24:57.331 4934 Delete type=2 #972
+2023/06/30-22:24:57.331 4934 Delete type=2 #975
+2023/06/30-22:24:57.331 4934 Delete type=2 #977
+2023/07/01-00:18:41.568 4934 Level-0 table #980: started
+2023/07/01-00:18:41.642 4934 Level-0 table #980: 2516232 bytes OK
+2023/07/01-00:18:41.646 4934 Delete type=0 #976

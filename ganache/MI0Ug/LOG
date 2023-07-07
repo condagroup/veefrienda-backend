@@ -1,0 +1,66 @@
+2023/06/30-17:00:55.729 cf10 Reusing MANIFEST C:\Users\HOME\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2023/06/30-17:00:55.730 cf10 Recovering log #616
+2023/06/30-17:00:55.758 cf10 Reusing old log C:\Users\HOME\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn/000616.log 
+2023/06/30-17:00:59.577 b8c0 Level-0 table #621: started
+2023/06/30-17:00:59.634 b8c0 Level-0 table #621: 2565300 bytes OK
+2023/06/30-17:00:59.636 b8c0 Delete type=0 #616
+2023/06/30-17:01:19.082 8e30 Level-0 table #623: started
+2023/06/30-17:01:19.147 8e30 Level-0 table #623: 2565114 bytes OK
+2023/06/30-17:01:19.222 8e30 Delete type=0 #620
+2023/06/30-17:01:33.136 b8c0 Level-0 table #625: started
+2023/06/30-17:01:33.208 b8c0 Level-0 table #625: 2566745 bytes OK
+2023/06/30-17:01:33.211 b8c0 Delete type=0 #622
+2023/06/30-17:02:21.593 8e30 Level-0 table #627: started
+2023/06/30-17:02:21.634 8e30 Level-0 table #627: 2567809 bytes OK
+2023/06/30-17:02:21.636 8e30 Delete type=0 #624
+2023/06/30-17:02:21.637 8e30 Compacting 4@0 + 1@1 files
+2023/06/30-17:02:21.689 8e30 Generated table #628@0: 2 keys, 641710 bytes
+2023/06/30-17:02:21.689 8e30 Compacted 4@0 + 1@1 files => 641710 bytes
+2023/06/30-17:02:21.691 8e30 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/30-17:02:21.691 8e30 Delete type=2 #618
+2023/06/30-17:02:21.691 8e30 Delete type=2 #621
+2023/06/30-17:02:21.691 8e30 Delete type=2 #623
+2023/06/30-17:02:21.691 8e30 Delete type=2 #625
+2023/06/30-17:02:21.691 8e30 Delete type=2 #627
+2023/06/30-18:03:09.092 8e30 Level-0 table #630: started
+2023/06/30-18:03:09.142 8e30 Level-0 table #630: 2570825 bytes OK
+2023/06/30-18:03:09.147 8e30 Delete type=0 #626
+2023/06/30-18:04:34.138 8e30 Level-0 table #632: started
+2023/06/30-18:04:34.180 8e30 Level-0 table #632: 2569214 bytes OK
+2023/06/30-18:04:34.182 8e30 Delete type=0 #629
+2023/06/30-18:05:55.885 8e30 Level-0 table #634: started
+2023/06/30-18:05:55.924 8e30 Level-0 table #634: 2569208 bytes OK
+2023/06/30-18:05:55.925 8e30 Delete type=0 #631
+2023/06/30-18:06:35.996 8e30 Level-0 table #636: started
+2023/06/30-18:06:36.040 8e30 Level-0 table #636: 2569658 bytes OK
+2023/06/30-18:06:36.042 8e30 Delete type=0 #633
+2023/06/30-18:06:36.044 8e30 Compacting 4@0 + 1@1 files
+2023/06/30-18:06:36.129 8e30 Generated table #637@0: 2 keys, 642870 bytes
+2023/06/30-18:06:36.129 8e30 Compacted 4@0 + 1@1 files => 642870 bytes
+2023/06/30-18:06:36.130 8e30 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/30-18:06:36.130 8e30 Delete type=2 #628
+2023/06/30-18:06:36.130 8e30 Delete type=2 #630
+2023/06/30-18:06:36.130 8e30 Delete type=2 #632
+2023/06/30-18:06:36.130 8e30 Delete type=2 #634
+2023/06/30-18:06:36.130 8e30 Delete type=2 #636
+2023/06/30-18:06:52.261 8e30 Level-0 table #639: started
+2023/06/30-18:06:52.286 8e30 Level-0 table #639: 2570353 bytes OK
+2023/06/30-18:06:52.287 8e30 Delete type=0 #635
+2023/06/30-18:24:05.271 8e30 Level-0 table #641: started
+2023/06/30-18:24:05.323 8e30 Level-0 table #641: 2570948 bytes OK
+2023/06/30-18:24:05.325 8e30 Delete type=0 #638
+2023/06/30-18:24:36.059 8e30 Level-0 table #643: started
+2023/06/30-18:24:36.100 8e30 Level-0 table #643: 2570388 bytes OK
+2023/06/30-18:24:36.101 8e30 Delete type=0 #640
+2023/06/30-18:57:14.687 8e30 Level-0 table #645: started
+2023/06/30-18:57:14.748 8e30 Level-0 table #645: 2569875 bytes OK
+2023/06/30-18:57:14.751 8e30 Delete type=0 #642
+2023/06/30-18:57:14.751 8e30 Compacting 4@0 + 1@1 files
+2023/06/30-18:57:14.837 8e30 Generated table #646@0: 2 keys, 642419 bytes
+2023/06/30-18:57:14.837 8e30 Compacted 4@0 + 1@1 files => 642419 bytes
+2023/06/30-18:57:14.838 8e30 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/30-18:57:14.839 8e30 Delete type=2 #637
+2023/06/30-18:57:14.839 8e30 Delete type=2 #639
+2023/06/30-18:57:14.839 8e30 Delete type=2 #641
+2023/06/30-18:57:14.839 8e30 Delete type=2 #643
+2023/06/30-18:57:14.839 8e30 Delete type=2 #645

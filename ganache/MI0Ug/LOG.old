@@ -1,0 +1,20 @@
+2023/06/30-16:24:21.915 cf10 Reusing MANIFEST C:\Users\HOME\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2023/06/30-16:24:21.916 cf10 Recovering log #609
+2023/06/30-16:24:21.952 cf10 Level-0 table #612: started
+2023/06/30-16:24:22.019 cf10 Level-0 table #612: 2591884 bytes OK
+2023/06/30-16:24:22.023 cf10 Delete type=0 #609
+2023/06/30-16:24:39.474 8e30 Level-0 table #615: started
+2023/06/30-16:24:39.541 8e30 Level-0 table #615: 2590453 bytes OK
+2023/06/30-16:24:39.546 8e30 Delete type=0 #613
+2023/06/30-16:24:50.029 8e30 Level-0 table #617: started
+2023/06/30-16:24:50.091 8e30 Level-0 table #617: 2582359 bytes OK
+2023/06/30-16:24:50.095 8e30 Delete type=0 #614
+2023/06/30-16:24:50.097 8e30 Compacting 4@0 + 1@1 files
+2023/06/30-16:24:50.180 8e30 Generated table #618@0: 2 keys, 641535 bytes
+2023/06/30-16:24:50.180 8e30 Compacted 4@0 + 1@1 files => 641535 bytes
+2023/06/30-16:24:50.181 8e30 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/30-16:24:50.182 8e30 Delete type=2 #608
+2023/06/30-16:24:50.182 8e30 Delete type=2 #610
+2023/06/30-16:24:50.182 8e30 Delete type=2 #612
+2023/06/30-16:24:50.182 8e30 Delete type=2 #615
+2023/06/30-16:24:50.182 8e30 Delete type=2 #617
